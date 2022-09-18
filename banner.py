@@ -1,0 +1,16 @@
+def banner():
+        print("\t\t|_____________________________________________________________________________________________|")
+        print("\t\t|                                     MAX HOSPITAL                                            |")
+        print("\t\t|                 MG Road, Plot No-21, Charni Road, Mumbai, Maharashtra 400001                |")
+        print("\t\t|                            Phone no.:022-62629898,022-62625858                              |")
+        print("\t\t|                                Website: www.maxhospitals.com                                |")
+        print("\t\t|                                                                                             |")
+        print("\t\t|                                                                                             |")
+        print("\t\t|                                                                                             |")
+        print("\t\t|                      Winner of Best Hospital In Mumbai Award-2019                           |")
+        print("\t\t|_____________________________________________________________________________________________|")
+        print()
+        print()
+        print()
+        print()
+        
